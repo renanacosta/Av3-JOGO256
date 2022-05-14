@@ -1,7 +1,11 @@
 ![Badge](https://img.shields.io/badge/Avaliação_3-Lista_Duplamente_Encadeada-%237159c1?style=for-the-badge&logo=ghost)
 # <p align="center">**LISTA DUPLAMENTE ENCADEADA (LDE)**</p>
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/36648528/168410215-f4db8e60-2ad1-4d92-9757-7be7f1fe2b78.png">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/36648528/168410231-18011624-c2d4-4956-ae33-c93fb850a121.png">
 </p>
 
 
