@@ -2,7 +2,7 @@
 # <p align="center">**LISTA DUPLAMENTE ENCADEADA (LDE)**</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/36648528/168410755-0716676a-c4d4-409b-a006-9fa56cd26362.png">
+<img src="https://user-images.githubusercontent.com/36648528/168410786-c0f33ec4-b3ff-4eb0-8174-da511738b2b9.png">
 </p>
 
 ## 📖 Sobre o projeto
