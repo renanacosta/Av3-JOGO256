@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/Avaliação_2-Lista_Duplamente_Encadeada-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Avaliação_3-Lista_Duplamente_Encadeada-%237159c1?style=for-the-badge&logo=ghost)
 # <p align="center">**LISTA DUPLAMENTE ENCADEADA (LDE)**</p>
 <p align="center">
 <img src="">
