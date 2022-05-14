@@ -11,12 +11,20 @@ O projeto foi desenvolvido para avaliação 3 da disciplina de Estrutura de Dado
 
 Tendo como objetivo a implementação do jogo 256, baseado no famoso jogo 2048.
 
-<p align="center">
+## 📺 Preview
+
+<table border="0" align="center">
+ <tr>
+   <td align="center"> <p align="center">
 <img src="https://user-images.githubusercontent.com/36648528/168410215-f4db8e60-2ad1-4d92-9757-7be7f1fe2b78.png">
-</p>
+</p> </td>
+ </tr>
+ </table>
+
+
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/36648528/168410314-692448fe-5420-447b-a84d-a8f46ccdf2c4.png">
+<img src="https://user-images.githubusercontent.com/36648528/168410841-2db42664-fafc-4328-a6db-be7a946a6c5f.png">
 </p>
 
 <p align="center">
