@@ -21,9 +21,7 @@ Tendo como objetivo a implementação do jogo 256, baseado no famoso jogo 2048.
 </p>
 </td>
 </tr>
- 
-<br>
- 
+
 <tr>
 <td align="center">
 <p align="center">
@@ -31,8 +29,6 @@ Tendo como objetivo a implementação do jogo 256, baseado no famoso jogo 2048.
 </p>
 </td>
 </tr>
- 
-<br>
  
 <tr>
 <td align="center">
