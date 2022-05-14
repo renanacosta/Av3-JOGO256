@@ -1,17 +1,28 @@
 ![Badge](https://img.shields.io/badge/Avaliação_3-Lista_Duplamente_Encadeada-%237159c1?style=for-the-badge&logo=ghost)
 # <p align="center">**LISTA DUPLAMENTE ENCADEADA (LDE)**</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/36648528/168410755-0716676a-c4d4-409b-a006-9fa56cd26362.png">
+</p>
+
+## 📖 Sobre o projeto
+#  
+O projeto foi desenvolvido para avaliação 3 da disciplina de Estrutura de Dados, ministrado pelo professor **Luciano Vargas Gonçalves** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRS, campus Rio Grande.
+
+Tendo como objetivo a implementação do jogo 256, baseado no famoso jogo 2048.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36648528/168410215-f4db8e60-2ad1-4d92-9757-7be7f1fe2b78.png">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/36648528/168410314-692448fe-5420-447b-a84d-a8f46ccdf2c4.png">
 </p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36648528/168410231-18011624-c2d4-4956-ae33-c93fb850a121.png">
 </p>
 
-
-## 📖 Sobre o projeto
-#  
-O projeto foi desenvolvido para avaliação 3 da disciplina de Estrutura de Dados, ministrado pelo professor **Luciano Vargas Gonçalves** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRS, campus Rio Grande.
 <br><br>
 ## 📖 Instruções
 ---
