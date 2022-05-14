@@ -11,8 +11,6 @@ O projeto foi desenvolvido para avaliação 3 da disciplina de Estrutura de Dado
 <br><br>
 ## 📖 Instruções
 ---
-
-## 🚀 **Exercício 1 e 2**
 <br>
 1) Com base nos conceitos de Lista Simplesmente Encadeada(LSE), implemente as funções:
 
