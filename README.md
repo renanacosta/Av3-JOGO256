@@ -14,22 +14,31 @@ Tendo como objetivo a implementação do jogo 256, baseado no famoso jogo 2048.
 ## 📺 Preview
 
 <table border="0" align="center">
- <tr>
-   <td align="center"> <p align="center">
+<tr>
+<td align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/36648528/168410215-f4db8e60-2ad1-4d92-9757-7be7f1fe2b78.png">
-</p> </td>
- </tr>
- </table>
-
-
-
+</p>
+</td>
+</tr>
+ 
+<tr>
+<td align="center">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36648528/168410841-2db42664-fafc-4328-a6db-be7a946a6c5f.png">
 </p>
-
+</td>
+</tr>
+ 
+<tr>
+<td align="center">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36648528/168410231-18011624-c2d4-4956-ae33-c93fb850a121.png">
 </p>
+</td>
+</tr>
+
+</table>
 
 <br><br>
 ## 📖 Instruções
